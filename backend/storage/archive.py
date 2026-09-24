@@ -56,8 +56,97 @@ def save_archive(archive):
 
     temporary_file.replace(ARCHIVE_FILE)
 
+def save_daily_news(
+    articles,
+    articles_collected=None,
+    duplicates_removed=0
+):
 
-def save_daily_news(articles):
+    archive = load_archive()
+
+    today = datetime.now(
+        timezone.utc
+    ).strftime("%Y-%m-%d")
+
+    existing_articles = (
+        archive
+        .get(today, {})
+        .get("articles", [])
+    )
+
+    existing_ids = {
+        article["id"]
+        for article in existing_articles
+    }
+
+    new_articles = []
+
+    for article in articles:
+
+        if article["id"] not in existing_ids:
+
+            new_articles.append(
+                article
+            )
+
+            existing_ids.add(
+                article["id"]
+            )
+
+    combined_articles = (
+        existing_articles +
+        new_articles
+    )
+
+    category_counts = {}
+
+    for article in combined_articles:
+
+        category = article.get(
+            "category",
+            "uncategorized"
+        )
+
+        category_counts[category] = (
+            category_counts.get(
+                category,
+                0
+            ) + 1
+        )
+
+    archive[today] = {
+
+        "date": today,
+
+        "generated_at": datetime.now(
+            timezone.utc
+        ).isoformat(),
+
+        "statistics": {
+
+            "articles_collected":
+                articles_collected
+                if articles_collected is not None
+                else len(articles),
+
+            "duplicates_removed":
+                duplicates_removed,
+
+            "articles_added":
+                len(new_articles),
+
+            "total_articles":
+                len(combined_articles)
+        },
+
+        "categories": category_counts,
+
+        "articles": combined_articles
+    }
+
+    save_archive(archive)
+
+    return archive[today]
 
     archive = load_archive()
 
