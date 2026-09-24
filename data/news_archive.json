@@ -1,0 +1,2375 @@
+{
+  "2026-09-24": {
+    "date": "2026-09-24",
+    "generated_at": "2026-09-24T18:39:32.707859+00:00",
+    "statistics": {
+      "articles_collected": 140,
+      "articles_added": 0,
+      "total_articles": 124
+    },
+    "categories": {
+      "world": 30,
+      "technology": 17,
+      "business": 41,
+      "science": 36
+    },
+    "articles": [
+      {
+        "id": "97baa5d0c93b2661",
+        "title": "White House restores access to media outlets banned by Trump after judge's order",
+        "description": "CNN, Politico and MS NOW were allowed back into the White House after some of their staff were earlier turned away.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-24T17:49:20+00:00",
+        "category": "world",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "24a6d9427f52953a",
+        "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
+        "description": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-24T15:42:07+00:00",
+        "category": "world",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "f912c18b19fc5b48",
+        "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
+        "description": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-24T18:06:40+00:00",
+        "category": "world",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "923ffca2a455a278",
+        "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
+        "description": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-24T16:00:29+00:00",
+        "category": "world",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "01e07f482a47679d",
+        "title": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
+        "description": "The military says its soldiers inflicted casualties as fears grow of a resumption of a full-blown civil war.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-24T15:37:45+00:00",
+        "category": "world",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "4869940429368912",
+        "title": "105-year-old investigated for crimes at Nazi PoW camp in Germany",
+        "description": "The suspect is alleged to have been an accessory to murder at the Stalag 326 camp, where tens of thousands of Soviet PoWs died.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-24T14:37:34+00:00",
+        "category": "world",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "60bd4982154542e5",
+        "title": "Greek PM urges UK PM to return Elgin Marbles permanently",
+        "description": "Andy Burnham said in 2023 the sculptures should be returned to Greece with \"no strings attached\".",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/cqm2mgk6mlddo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-24T16:36:33+00:00",
+        "category": "world",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "94bed59e126c3d37",
+        "title": "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout",
+        "description": "Proceeds from the tour, which begins in Dublin next month, will go to organisations supporting Palestinians, he says.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/cqzjzlve8jg7o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-24T17:55:44+00:00",
+        "category": "world",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "7d7eb22e04cd5744",
+        "title": "Teen rocker Nene Royal becomes first Thai to win America's Got Talent",
+        "description": "Her heavy metal performance trumped nine other finalists, including magicians and even a robot crew.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/cqzjzl3d1409o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-24T06:47:12+00:00",
+        "category": "world",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "4264506216ba0f46",
+        "title": "Trump's Board of Peace unveils $2.45bn Gaza recovery plan",
+        "description": "The figure was announced during a meeting of the group's board at the sidelines of the UN General Assembly in New York.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-24T10:11:15+00:00",
+        "category": "world",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "4dcb53e3691638b9",
+        "title": "Iran's president tells Trump it will never 'bend the knee'",
+        "description": "Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-23T18:15:31+00:00",
+        "category": "world",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "c89a7e14aca1783b",
+        "title": "Dramatic eviction of woman aged 87 highlights Spain's housing shortage",
+        "description": "The tenant of the flat in Madrid, Maricarmen, was unable to pay the rent set by the firm which recently bought it.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-23T12:31:31+00:00",
+        "category": "world",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "4559f7790e8501a6",
+        "title": "Why India's Election Commission is in the eye of a storm - again",
+        "description": "India's polling monitor is facing yet another crisis of credibility with fresh allegations against its chief.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/cqkgw68yjg29o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-24T08:26:19+00:00",
+        "category": "world",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "46dd0b19303bba2b",
+        "title": "UK survivor of Canadian poison seller says he exploited her despair",
+        "description": "Elisabeth Belien tells Kenneth Law's sentencing hearing she took the poison when she was just 23 years old.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/cmvgy4237gq9o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-23T21:16:00+00:00",
+        "category": "world",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "0f97b37f06f7bd02",
+        "title": "Dolly Parton's manager accuses her nephew of 'threats and intimidation'",
+        "description": "Bryan Seaver, who announced Parton's death to the world, is accused of trying to extort her estate.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/c670lydl5wg5o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-23T12:22:53+00:00",
+        "category": "world",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "90210de10b2a2e91",
+        "title": "Harvey Weinstein sentenced to 15 years in prison for sexual assault",
+        "description": "Assault survivor Miriam Haley said the \"devastating effect on my life and sense of security that may never go away\".",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/cm98626n260yo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-23T18:51:12+00:00",
+        "category": "world",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "a23a4287ae535987",
+        "title": "Poland accuses Russian military helicopter of violating its airspace",
+        "description": "Poland says the aircraft stayed in its skies for 42 seconds, forcing the Nato member to scramble its fighter jets.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/c699d2dn9z0mo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-23T15:37:20+00:00",
+        "category": "world",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "03e83a2be475d775",
+        "title": "Reports of violence against women in Gaza surge, UN agency finds",
+        "description": "The UN Population Fund also says there has been a \"severe escalation\" in the number of early and forced marriages.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-23T05:02:26+00:00",
+        "category": "world",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "f8a485533e9d3035",
+        "title": "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
+        "description": "News that an automated AI agent hacked a government IT system raises big questions about regulating the tech.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-24T14:08:38+00:00",
+        "category": "world",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "68b4e36734a487d4",
+        "title": "Trump and Xi come face-to-face as US and China battle to win the AI race",
+        "description": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-23T22:01:17+00:00",
+        "category": "world",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "612e3c0f806ade41",
+        "title": "In Amish country, nurses go door to door to stop deadly spread of measles",
+        "description": "With four measles-related deaths in Pennsylvania, health officials are hoping to get people on board with vaccines in private.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/ck3wjyjgj37po?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-24T00:15:46+00:00",
+        "category": "world",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "a3fd8e787fa51893",
+        "title": "They were labelled 'pervert glasses'. Will a camera-free version transform their image?",
+        "description": "Meta has unveiled audio-only smart glasses, with some questioning whether it is a response to the backlash over privacy.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/cwp80l0my1x2o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-24T00:50:24+00:00",
+        "category": "world",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "d88ace1b87547d73",
+        "title": "Eating garden weeds to survive in Russian-occupied city cut off from food and water",
+        "description": "The BBC has spoken to residents in the Russian-occupied Ukrainian town of Oleshky who say they are being \"constantly shelled\".",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/c60qxywdx4vvo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-23T23:58:50+00:00",
+        "category": "world",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "2398fbfbc1822920",
+        "title": "'Make women feel seen': Why the Dutch have a new word for labia",
+        "description": "Campaigners hope the new words will lead to less body shaming and more sex positivity.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/cn4klprmr0go?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-23T23:42:38+00:00",
+        "category": "world",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "7ad5a0b3054d7703",
+        "title": "Indians are discovering the thrill of shopping without paying",
+        "description": "Dopamine sites mimic shopping’s thrill without the spending, turning the ritual of consumption into a digital game.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/cwn741v5rdpxo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-23T23:14:10+00:00",
+        "category": "world",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "a0d4c8b969aca2a6",
+        "title": "How Ceuta, football and Israel are shaping Morocco's election",
+        "description": "Young voters are being courted with football slogans, promises of jobs and anti-Israel rallying calls.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-22T20:59:00+00:00",
+        "category": "world",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "337397a418d63261",
+        "title": "A red carpet and military flyover - How Trump welcomed Xi",
+        "description": "The two B-1 bombers that flew overhead are a key part of the US's combat arsenal, and produce a notoriously loud roar when they pass by.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/videos/c6804ne8knklo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-23T23:03:56+00:00",
+        "category": "world",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "9cac110aee62fe01",
+        "title": "Watch: The arms race in space and how the UK is defending itself",
+        "description": "The UK has jammed satellites to defend itself from hostile threats, the BBC has been told.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/videos/c34gdygn5lqpo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-23T21:29:04+00:00",
+        "category": "world",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "6d3f6f21ab88e577",
+        "title": "Watch: How toxic smog from wildfires is making Indonesians sick",
+        "description": "Around 175,000 people in Indonesia have suffered from respiratory illness since August.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/videos/c962j1jgx884o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-23T15:46:28+00:00",
+        "category": "world",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "6c8bc7fef5320e22",
+        "title": "Watch: Trump and Xi are meeting on US soil - what's at stake?",
+        "description": "The BBC’s China correspondent and US editor explain everything you need to know ahead of the Trump-Xi meeting in Washington DC.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/videos/c38xk275jd21o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-23T11:00:09+00:00",
+        "category": "world",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "90aa3aaf99feda11",
+        "title": "FBI investigating claim hackers have stolen details of all its agents",
+        "description": "The hackers claim they have every agent's name, role, badge number and personal details including home address, phone numbers and spouse information.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/technology/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/c9n74574elljo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-24T12:23:52+00:00",
+        "category": "technology",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "08be7c7455990ed0",
+        "title": "Are we back in big tech's 'move fast and break things' era?",
+        "description": "Despite promises to make safe AI, examples of bots behaving badly are now coming at us thick and fast.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/technology/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/c6eq8egl3wd2o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-24T11:29:20+00:00",
+        "category": "technology",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "45543d731f6b7144",
+        "title": "What you need to know about the OpenAI Australian government hack",
+        "description": "The BBC’s North America technology correspondent Lily Jamali explains how the Medicare breach happened, and why it matters.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/technology/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/videos/cwe8ekyzdjvlo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-24T05:18:26+00:00",
+        "category": "technology",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "2d513bf8d4cdc184",
+        "title": "US rejects pleas from OpenAI, Anthropic for global AI standards",
+        "description": "OpenAI's Sam Altman has called for risk evaluation standards, as have Anthropic's Dario Amodei and Hugging Face's Clement Delangue.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/technology/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-23T22:35:14+00:00",
+        "category": "technology",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "c37c01db3860399f",
+        "title": "Pornhub investigated over its age checks",
+        "description": "The regulator says it has concerns over how the site is relying on third party checks provided by Apple for some users.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/technology/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/c6eq8dw3dlyqo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-23T15:56:44+00:00",
+        "category": "technology",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "b7e58b5f1e5883b5",
+        "title": "OpenAI gives cyber defence tools to Ukraine",
+        "description": "Ukraine will get access to OpenAI's advanced GPT 5.6 Sol model under the deal - a rival to Anthropic's Mythos and Fable",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/technology/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/c90kly26d7pzo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-23T12:01:37+00:00",
+        "category": "technology",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "8189b0d4924dc37c",
+        "title": "US criticises Australia's proposed algorithm opt-out laws as 'censorship'",
+        "description": "Under the draft laws, tech firms face fines if they do not give users the option to switch off algorithms.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/technology/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/cqj3dgy8x3vro?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-23T01:35:56+00:00",
+        "category": "technology",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "43c35a5ce854ec9c",
+        "title": "Will a switch to light speed cut power use at data centres?",
+        "description": "To save power and add capacity,  data centres are switching from copper wires to tech using light.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/technology/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/c2dwg3zexkpo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-22T23:03:48+00:00",
+        "category": "technology",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "a8ba1405a8aaf3d1",
+        "title": "Huge data centres rise at 'China speed' to power its AI ambitions",
+        "description": "The BBC visits Inner Mongolia, an unlikely frontier in Beijing's AI race with Washington.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/technology/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-22T22:04:31+00:00",
+        "category": "technology",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "a5840e5a42f749a2",
+        "title": "Tech Life",
+        "description": "China is competing with the United States and other nations to develop AI.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/technology/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/sounds/play/w3ct8jyg?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-22T20:00:00+00:00",
+        "category": "technology",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "0cfb3dcdb81d5c48",
+        "title": "Tech Life",
+        "description": "What should children learn in a world transformed by artificial intelligence?",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/technology/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/sounds/play/w3ct8jyf?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-15T19:30:00+00:00",
+        "category": "technology",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "0bf850c7b0e85177",
+        "title": "Tech Life",
+        "description": "Scammers demand money from Instagram users over fake copyright claims.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/technology/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/sounds/play/w3ct8jyd?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-08T20:00:00+00:00",
+        "category": "technology",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "aac336945946f96f",
+        "title": "Tech Life",
+        "description": "AI can only communicate in languages that it's been trained on.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/technology/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/sounds/play/w3ct8jyc?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-01T20:10:00+00:00",
+        "category": "technology",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "6cdb0ccc5e113187",
+        "title": "Tech Now",
+        "description": "Adrienne Murray follows NASA scientists in Iceland researching a rare total solar eclipse.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/technology/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/iplayer/episode/m0032301?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-19T01:00:00+00:00",
+        "category": "technology",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "3b00970eb874191d",
+        "title": "Tech Now",
+        "description": "Shiona McCallum meets mums and hospital staff trialling a new assisted birth innovation.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/technology/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/iplayer/episode/m0031qjy?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-12T01:00:19+00:00",
+        "category": "technology",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "4e834fb3c8dac819",
+        "title": "Tech Now",
+        "description": "Laura Cress has the highlights from Gamescom, the biggest gaming convention in the world.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/technology/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/iplayer/episode/m0031d1p?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-05T01:00:18+00:00",
+        "category": "technology",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "015d85faabedcd21",
+        "title": "Tech Now",
+        "description": "New technologies measuring forests and exclusive access to a hacker rehab programme.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/technology/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/iplayer/episode/m002zxt1?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-08-01T01:00:12+00:00",
+        "category": "technology",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "b6368df0b19c9998",
+        "title": "Reported assaults on Britain's rail services rise by more than a third",
+        "description": "Recorded incidents of violence and harassment against passengers and rail workers showed a sharp increase in the year to March.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/business/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/c6z0z5dz884lo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-24T15:38:50+00:00",
+        "category": "business",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "14092f125198820b",
+        "title": "£170 a bag? Protein users squeezed as prices soar",
+        "description": "Consumers are feeling the pinch from the rising cost of protein.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/business/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/cm93e2gz8y41o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-23T23:12:01+00:00",
+        "category": "business",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "ad11e6cfb14a5b96",
+        "title": "How the oil capital of the US welcomed a solar power boom",
+        "description": "Texas is now the country's biggest producer of solar-farmed electricity.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/business/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/cmx2zxv6936zo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-23T23:12:22+00:00",
+        "category": "business",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "9bef76bdfe0d981e",
+        "title": "Lidl banned from selling copycat Birkenstock sandals, Dutch court rules",
+        "description": "Lidl must also compensate Birkenstock and pay its legal fees, according to the court ruling",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/business/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/cqrm90m2g1dzo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-23T21:25:01+00:00",
+        "category": "business",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "985caecfc4982ddc",
+        "title": "Rolls-Royce signs 'multi-million' engine deal",
+        "description": "The order will see 18 engines built and maintained by the company from its Derby aerospace centre.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/business/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/cmpwle47zxgyo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-24T10:14:47+00:00",
+        "category": "business",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "c32313845295fe23",
+        "title": "Trump reveals millions of dollars' worth of share deals in big tech and AI",
+        "description": "Stock in major firms such as Microsoft, Nvidia and SpaceX was bought and sold on behalf of the US president.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/business/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/c6p3kxpp8lezo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-23T16:42:47+00:00",
+        "category": "business",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "f33f213a883f54ee",
+        "title": "Barrecore and Boom Cycle owner suddenly shuts studios",
+        "description": "Common Bond has emailed customers announcing its locations were closed \"until further notice\".",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/business/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/ckzdzeedmqm4o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-23T19:10:22+00:00",
+        "category": "business",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "3b77ee401dbeb4b8",
+        "title": "Off sick? You need to phone your boss, back-to-work adviser says",
+        "description": "Relying on text and email means sick workers disengaged and were less likely to work again, says Sir Charlie Mayfield.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/business/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/cq0lry248y2zo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-23T10:49:51+00:00",
+        "category": "business",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "1f3d9d291db2848d",
+        "title": "UK warned over ballooning debt costs and slower growth ahead of Budget",
+        "description": "Higher energy prices due to the conflict in the Middle East and climate change could hit growth.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/business/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/c607ly09y7rlo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-23T13:50:25+00:00",
+        "category": "business",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "c5e19ed8e6d541c8",
+        "title": "Tories would prevent long-term jobless spending benefits on alcohol and cigarettes",
+        "description": "The proposals would also see benefits cut for people who are able to work but have failed to hold down a job.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/business/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/c920vy2jxle8o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-24T10:25:58+00:00",
+        "category": "business",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "418a387162bb6e9c",
+        "title": "Bentley unveils its first fully electric car",
+        "description": "The SUVs will be built on a new production line in Crewe, which has been Bentley's base since 1946.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/business/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/c65ymznkr291o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-23T19:21:10+00:00",
+        "category": "business",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "046866fdb067a13d",
+        "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
+        "description": "Auto executives across Europe hope rearmament can help them flex their industrial muscles once more.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/business/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-24T08:43:58+00:00",
+        "category": "business",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "bf1266b3a466271f",
+        "title": "Trump wants AI to be rebranded as super intelligence. Will it work?",
+        "description": "Some people close to the president have started to use the term but experts say it is unlikely to catch on.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/business/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/cqy4z9pv4w0po?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-23T03:20:30+00:00",
+        "category": "business",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "b22250ec50236e37",
+        "title": "UK and US warned to take action on spiralling debt costs by IMF",
+        "description": "In an interview with the BBC, Kristalina Georgieva says economic shocks had pushed \"debt levels up like a staircase not to heaven\".",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/business/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/cx305ymq4ldqo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-23T08:31:16+00:00",
+        "category": "business",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "04009e81bca0f05d",
+        "title": "'I don't have a buoyancy aid': Living without the Bank of Mum and Dad",
+        "description": "Three 20-somethings tell BBC News how they are navigating life without parental support.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/business/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/c8dx5p7gd4e9o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-22T23:20:31+00:00",
+        "category": "business",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "26d6593f7e34cfb1",
+        "title": "Trump says he would back ban on diesel exports",
+        "description": "Republicans lawmakers have put pressure on the president to curb exports as diesel prices soar to record highs in the US.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/business/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/cmkg7560epw0o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-22T20:41:13+00:00",
+        "category": "business",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "c87042937cb10db3",
+        "title": "Sir Jim Ratcliffe suspends production at key UK plants blaming high gas prices",
+        "description": "Ineos said natural gas in the UK is twelve times more expensive than in the US.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/business/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/cw305ynd69n6o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-22T15:43:14+00:00",
+        "category": "business",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "eb29de592028be35",
+        "title": "'We screwed up': Doordash admits underpaying New York workers",
+        "description": "The food delivery giant will pay a $131.5m settlement following a city probe into wage violations.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/business/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/cjr4v72y6p4eo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-22T16:50:24+00:00",
+        "category": "business",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "2c5141f6faf78fa9",
+        "title": "New EU industry rules would damage UK, warns Burnham",
+        "description": "The prime minister met the European Commission President during his visit to the United Nations General Assembly.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/business/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/cv2dwylkl7weo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-22T21:18:40+00:00",
+        "category": "business",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "11081dd45569e0ab",
+        "title": "Unexpected UK borrowing surge adds to pre-Budget pressure on chancellor",
+        "description": "Borrowing was higher than expected in August as inflation piles pressure on the government ahead of the Budget.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/business/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/c68049m18435o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-22T08:52:12+00:00",
+        "category": "business",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "a17ebdc0cffc8f70",
+        "title": "Spain battles climate change on several fronts",
+        "description": "A summer of wildfires and heatwaves underlines the threats to the country's economy.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/business/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/cwg59g3vz564o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-22T09:11:48+00:00",
+        "category": "business",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "ca691b64f42f124b",
+        "title": "The virtual worlds where robots are trained",
+        "description": "Training systems that allow robots to negotiate the real world are getting more sophisticated.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/business/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-17T23:00:47+00:00",
+        "category": "business",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "14bb7b514bbf64d8",
+        "title": "Would you buy branded clothing from your favourite tech firm?",
+        "description": "Nvidia, OpenAI and Anthropic are all now selling their own limited edition fashion lines.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/business/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/cgqd9zkkvlyo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-16T23:18:47+00:00",
+        "category": "business",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "8005b88d20f14dd1",
+        "title": "The extreme engineering of aircraft windows",
+        "description": "Few companies have the technology to make aircraft windows which are getting harder to make.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/business/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/c0lr69zeyrwo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-15T23:19:38+00:00",
+        "category": "business",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "994e2667a399aa76",
+        "title": "Can Europe recharge its battery industry?",
+        "description": "Europe has some promising battery tech, but can it make up ground lost to Chinese battery giants?",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/business/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-10T23:05:47+00:00",
+        "category": "business",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "f13ea52db0ed14f9",
+        "title": "I asked my husband to pay into my pension when we had a child - here's why",
+        "description": "Molly and Taylor Haylett explain the changes to how they managed their finances when they started a family.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/business/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/cde02k65427o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-10T23:04:30+00:00",
+        "category": "business",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "06d3b86a80e6668e",
+        "title": "Why some experts increasingly fear AI will take over",
+        "description": "AI agents went on an uncontrolled hacking spree, leaving some in the industry worried",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/business/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-09T23:17:33+00:00",
+        "category": "business",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "ad6c061b96f27b9c",
+        "title": "Should promotion depend on how workers use AI?",
+        "description": "More companies are tying career progression to AI use: is that fair?",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/business/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/c1j1896e973o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-08T23:05:23+00:00",
+        "category": "business",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "1b27b692af693ba9",
+        "title": "'Tirana teeth': Albania hopes to be the new Turkey for dental work",
+        "description": "The Balkan nation is aiming to become a new centre for medical tourism.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/business/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/cq63m88ymqro?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-08T09:00:28+00:00",
+        "category": "business",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "87490f1bda851927",
+        "title": "From 'dog fruit' to darling: India's avocado boom",
+        "description": "Demand for avocados is booming in India and local growers hope to grab more of the market.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/business/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/clyjzpgv29do?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-04T05:09:02+00:00",
+        "category": "business",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "3c7ead0c81cb785f",
+        "title": "Food banks 'in crisis' amid fears some may have to close",
+        "description": "According to the Trussell Trust, an anti-poverty charity, some food banks are having pay for 30-50% of the food they are supplying.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/business/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/ck62m1mzr4evo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-24T05:45:04+00:00",
+        "category": "business",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "b3ff1fafd193635d",
+        "title": "Rising fuel costs hitting businesses and customers",
+        "description": "Business owners say higher fuel costs are creating challenges on several fronts.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/business/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/cvn0j77dzjdko?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-24T05:10:25+00:00",
+        "category": "business",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "863fc47b7169f533",
+        "title": "Rise in 'commuter students' due to living costs",
+        "description": "Some young people are staying at home while attending university as they cannot afford to move.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/business/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/c670lknwqyxno?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-24T05:05:35+00:00",
+        "category": "business",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "3c2baf663af56ddc",
+        "title": "Concerns county will not benefit from £2 bus cap",
+        "description": "Councillor Justine Peberdy says Yeomans Travel and Sargeants Brothers have not committed to the cap.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/business/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/cqd08m30r2j9o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-23T10:49:57+00:00",
+        "category": "business",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "588e3e94b4910285",
+        "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
+        "description": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/business/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-05T23:20:00+00:00",
+        "category": "business",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "1d75e299bcd2d377",
+        "title": "Why the UK is dithering over what to do about e-scooters",
+        "description": "Why is it taking so long for the government to regulate them, and what are the consequences of delay?",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/business/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/cn4nvn9w00no?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-07-22T23:51:24+00:00",
+        "category": "business",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "3973f4fd41e71082",
+        "title": "Why Gen Z are planning for life without a state pension",
+        "description": "Many younger people do not believe the state pension will exist when they are older",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/business/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-06-30T23:05:19+00:00",
+        "category": "business",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "e1895cadbd487d0e",
+        "title": "The furious dispute over what caused Air India flight 171 to crash",
+        "description": "The final conclusions of the investigation have yet to be published, although more could become apparent in the coming days.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/business/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/cwyk9exxp2qo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-06-10T23:10:11+00:00",
+        "category": "business",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "f533f76842c4674d",
+        "title": "What to think about when buying travel insurance",
+        "description": "Consumer expert Harry Kind walks through what to do when buying travel insurance.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/business/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/videos/cm62k9jj7reyo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-24T10:05:26+00:00",
+        "category": "business",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "bc7dceb2556147ab",
+        "title": "Business Daily",
+        "description": "What both want from the visit and how the leaders' relationship could shape its outcome",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/business/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/sounds/play/w3ct8glw?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-23T20:30:00+00:00",
+        "category": "business",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "9d5fb631663f1d07",
+        "title": "Why is the price of protein powder rising?",
+        "description": "Why is the price of protein powder rising?",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/business/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/videos/cmq8j1nk2wnxo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-23T18:53:04+00:00",
+        "category": "business",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "41d8733e05952bf5",
+        "title": "Elephants use medicinal plants to treat themselves, researchers find",
+        "description": "African elephants use dozens of different medicinal plants to treat themselves and their families when they are sick, research reveals.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/cv1j4yr6j2p0o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-24T11:42:42+00:00",
+        "category": "science",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "ed09ade571840fa9",
+        "title": "When and how to see the Harvest Moon in 2026",
+        "description": "September's full Moon will rise on Saturday 26 September. The best viewing conditions currently look to be across southern and eastern parts of the UK.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/weather/articles/cmp8dr34rz0yo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-24T10:46:15+00:00",
+        "category": "science",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "8bf5f5f7c2ca4ca6",
+        "title": "Blood tests find high level of cancer-causing forever chemical in residents near factory",
+        "description": "People living near a major chemical factory in Lancashire are told they could be at risk of serious health conditions.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/cjly4rv0q3l0o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-24T07:10:19+00:00",
+        "category": "science",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "8e39deb8080bcd8c",
+        "title": "Waste sector crisis could see rubbish piling up on streets, experts warn",
+        "description": "There are warnings over a combination of significantly reduced landfill space and a breakdown of Glasgow's main incinerator.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/cqlymw74g20ro?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-24T05:13:18+00:00",
+        "category": "science",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "2ff95dde3444390b",
+        "title": "Did El Niño turn Hurricane Polo into the most powerful storm of the season?",
+        "description": "The BBC's Courtney Sargent explains how El Niño could have rapidly turned Hurricane Polo into one of the Pacific season's most powerful storms.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/videos/cm93v2zz4w7qo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-23T17:33:39+00:00",
+        "category": "science",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "41a183cc0538df13",
+        "title": "Millions of lettuces ruined by UK aphid outbreak",
+        "description": "Growers are facing losses of £10m, as 30 million heads of lettuce will be rendered unusable.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/ckd79wlg2wl8o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-23T16:08:49+00:00",
+        "category": "science",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "3d06b3086a2f7d0a",
+        "title": "Farmers' fury as race for £233m funding compared to 'scramble for Oasis tickets'",
+        "description": "Farmers fear they may not be able to carry out environmental work because they lost out on funding.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/c3pwlejxrd7do?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-23T09:00:21+00:00",
+        "category": "science",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "df548b00b0ada59a",
+        "title": "More than 170,000 respiratory cases recorded in haze-choked Indonesia",
+        "description": "More than 40,000 of the cases – which range from mild coughs to pneumonia – involve toddlers.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/cq62j13gnyrko?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-23T04:20:12+00:00",
+        "category": "science",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "ca720b1f5ad4993f",
+        "title": "India is producing more green energy - but wasting a lot of it",
+        "description": "India has rapidly decarbonised electricity generation, but its gains are tempered by transmission shortages.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/c8xkvzlz0x4o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-22T23:02:29+00:00",
+        "category": "science",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "1fbd54746d123764",
+        "title": "Developing El Niño becomes strongest on record weeks before expected peak",
+        "description": "Scientists say the developing El Niño is now the strongest on record with weather impacts already being felt around the world.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/weather/articles/cmvgy4nv9d62o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-22T12:54:14+00:00",
+        "category": "science",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "8543f948067043de",
+        "title": "Inside Scotland's wildcat HQ",
+        "description": "The Saving Wildcats partnership is keeping an eye on the latest wildcats being bred in captivity for release into the Cairngorms.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/videos/ckq6312dq0qjo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-22T10:54:53+00:00",
+        "category": "science",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "973179b60828efb8",
+        "title": "Inside Scotland's wildcat HQ - 'It's like Big Brother for cats'",
+        "description": "The Saving Wildcats partnership is keeping an eye on the latest wildcats being bred in captivity for release into the Cairngorms.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/c3vgyzkyr0r8o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-22T05:00:15+00:00",
+        "category": "science",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "76c45d6de9bf7730",
+        "title": "Apple Day called off after poor harvest",
+        "description": "It is the first time the event has been cancelled in 24 years.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/cxddvjzy4yd9o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-24T15:27:53+00:00",
+        "category": "science",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "fddb1a71abe44205",
+        "title": "Rare snails lay eggs during car journey to zoo",
+        "description": "The zoo near Canterbury says glutinous snails started laying eggs on their way to Kent.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/ckjw58n5dnepo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-23T05:11:00+00:00",
+        "category": "science",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "842e142d688ebb26",
+        "title": "Divers spend six hours clearing river of waste",
+        "description": "Divers from the Northampton Scuba School team up with other local organisations for a clean-up.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/ckj06p16q2eyo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-22T05:37:20+00:00",
+        "category": "science",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "2fda8477f90556ed",
+        "title": "New £1m grant to help groups protect green spaces",
+        "description": "The cash can be used by local communities to protect threatened green spaces and wildlife sites.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/c9y7zmg53nrzo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-20T06:55:28+00:00",
+        "category": "science",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "6cba0b26f919ef21",
+        "title": "'You never quite know what you're going to pull out'",
+        "description": "The group is marking a decade of fishing everything from an inflatable doll to a Nintendo out of the harbour.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/c5y4zgdd3ny3o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-20T06:38:44+00:00",
+        "category": "science",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "1bee811669f2b6a8",
+        "title": "Nebula image wins Royal Observatory competition",
+        "description": "Ali Alobaidly is named Astronomy Photographer of the Year for his image of the Shark Nebula.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/ckm2qyppr4l2o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-18T05:12:36+00:00",
+        "category": "science",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "7a4944a8a832a465",
+        "title": "Warning of space arms race as US confirms weapons in Earth's orbit",
+        "description": "The BBC's defence correspondent Jonathan Beale explains what an arms race in space might look like - and what it could mean for us on the ground.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/videos/cmn07yjqg5rwo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-15T17:35:02+00:00",
+        "category": "science",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "56bdabc0e73eb566",
+        "title": "Why weapons used in space could impact us all",
+        "description": "The US has confirmed it deployed a space weapon in Earth's orbit, the first time it has acknowledged such offensive capabilities.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/videos/c6z0zp3dvpnjo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-15T17:21:38+00:00",
+        "category": "science",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "b4384c7c887c6bf8",
+        "title": "What weapon could the US have put into space?",
+        "description": "The announcement by the US points to a developing field of modern warfare in the Earth's orbit.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-15T14:23:14+00:00",
+        "category": "science",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "a1836bb7a58294b1",
+        "title": "Nepal to use new flood study to claim millions from UN climate disaster fund",
+        "description": "A new study says climate change was a likely factor in the massive flood on the Nepal-Tibet border last month.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/cmlyrzve5pwzo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-17T10:31:35+00:00",
+        "category": "science",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "eb60987d7a962db8",
+        "title": "BBC Inside Science",
+        "description": "How do we measure time accurately and why is the rotation of the Earth causing problems?",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/sounds/play/w3ct9786?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-24T16:00:00+00:00",
+        "category": "science",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "e6a630e451ba7732",
+        "title": "BBC Inside Science",
+        "description": "Might the UK and US joining their AI forces help solve nuclear fusion?",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/sounds/play/w3ct9785?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-17T20:00:00+00:00",
+        "category": "science",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "1cf1ee0f169ee907",
+        "title": "BBC Inside Science",
+        "description": "Prof Stuart Russell offers some advice following a report into July’s Hugging Face hack.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/sounds/play/w3ct9784?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-10T20:00:00+00:00",
+        "category": "science",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "d6ec1d32e4a0ce17",
+        "title": "BBC Inside Science",
+        "description": "Researchers may have discovered the signature of a bit of dark matter.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/sounds/play/w3ct9783?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-03T20:00:00+00:00",
+        "category": "science",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "83a3cd32146aeb57",
+        "title": "First dinosaur bone from Antarctica found in a drawer",
+        "description": "The fossil, collected in Antarctica in 1985, is part of the tail of a beast called a Titanosaur.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/cdep67jnn9zo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-06-29T05:10:46+00:00",
+        "category": "science",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "4f5083dd20c787d7",
+        "title": "Fossil identified as first dinosaur ever found in Antarctica",
+        "description": "Argentinian geologist Eduardo Olivero became the first scientist to find the remains of a dinosaur in Antarctica in 1986.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/videos/c8r2074l0rmo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-06-26T17:58:10+00:00",
+        "category": "science",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "389442110319c55d",
+        "title": "Simpler, older version of Stonehenge found three miles from famous site",
+        "description": "The structure consisted of two posts that lined up with the solstices 5,000 years ago.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/clyxw8550y8o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-06-17T23:11:29+00:00",
+        "category": "science",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "72dae65429e62e8d",
+        "title": "From blast off to splashdown: My days following Nasa's historic mission to the Moon",
+        "description": "BBC Science Editor Rebecca Morelle reflects on how it felt to watch history being made.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/clyrdkxvmmpo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-04-11T23:17:07+00:00",
+        "category": "science",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "57cd5d48d941ffb0",
+        "title": "The 40 minutes when the Artemis crew loses contact with the Earth",
+        "description": "As the astronauts pass behind the Moon they will experience a moment of silence and solitude as communication with the Earth is blocked.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/cj0vyzmmy50o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-04-05T23:02:53+00:00",
+        "category": "science",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "7d3c176324224f27",
+        "title": "How cleaning up the air is speeding up global warming - and revealing a bigger problem",
+        "description": "A curious online row over this summer's heatwaves points to a wider - and worrying - shift in climate science.",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/c20917w25n4o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-08T23:11:52+00:00",
+        "category": "science",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "bea0fd1c63c652eb",
+        "title": "How the UK's extreme heat is shifting the conversation about air-con",
+        "description": "Should we embrace air conditioning despite its costs and consequences?",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/cy5dw4plzvlo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-07-29T23:33:01+00:00",
+        "category": "science",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "dfc87096f6961ed1",
+        "title": "The hidden cost of the night shift and how to sleep it off",
+        "description": "More than three million people in the UK work night shifts, which can greatly impact their health. What can be done to help them?",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/cp9errxl97go?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-07-19T00:01:55+00:00",
+        "category": "science",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "8c65d395ebc25924",
+        "title": "After record heat, could the Atlantic make Britain's weather even more extreme?",
+        "description": "As temperatures rise, scientists are investigating whether a changing Atlantic could bring more volatile weather to the UK",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/c992e8g10nmo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-07-14T23:08:13+00:00",
+        "category": "science",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      },
+      {
+        "id": "91dd35ca3a37a08b",
+        "title": "Why cheap power could matter more than clean power in the push for net zero",
+        "description": "The question of how important making our electricity clean is to going green is coming under increasing scrutiny",
+        "source": {
+          "name": "BBC News",
+          "feed_url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml"
+        },
+        "original_url": "https://www.bbc.co.uk/news/articles/c86ey5n9vx9o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-04-15T23:20:22+00:00",
+        "category": "science",
+        "author": null,
+        "image_url": null,
+        "ai": {
+          "summary": null,
+          "key_points": [],
+          "keywords": []
+        }
+      }
+    ]
+  }
+}
