@@ -18,10 +18,10 @@ def main():
     print("=" * 60)
 
     # --------------------------------------------------
-    # 1. COLLECT
+    # 1. COLLECT RSS NEWS
     # --------------------------------------------------
 
-    print("\n[1/5] Collecting RSS news...\n")
+    print("\n[1/5] Collecting RSS feeds...\n")
 
     articles = collect_news()
 
@@ -32,24 +32,19 @@ def main():
     )
 
     if not articles:
-
         print("No articles found.")
-
         return
 
     # --------------------------------------------------
-    # 2. DEDUPLICATE
+    # 2. EXACT DEDUPLICATION
     # --------------------------------------------------
 
     print(
         "\n[2/5] Removing exact duplicates..."
     )
 
-    (
-        unique_articles,
-        duplicate_count
-    ) = deduplicate_articles(
-        articles
+    unique_articles, duplicate_count = (
+        deduplicate_articles(articles)
     )
 
     print(
@@ -63,7 +58,7 @@ def main():
     )
 
     # --------------------------------------------------
-    # 3. FIND SIMILAR STORIES
+    # 3. SIMILAR STORY DETECTION
     # --------------------------------------------------
 
     print(
@@ -80,11 +75,11 @@ def main():
     )
 
     # --------------------------------------------------
-    # 4. AI PROCESSING
+    # 4. OPENAI PROCESSING
     # --------------------------------------------------
 
     print(
-        "\n[4/5] Processing articles with AI..."
+        "\n[4/5] Generating AI summaries..."
     )
 
     processed_articles = process_articles(
@@ -92,38 +87,30 @@ def main():
     )
 
     print(
-        f"\nAI processed: "
+        f"AI processed: "
         f"{len(processed_articles)}"
     )
 
     # --------------------------------------------------
-    # 5. SAVE
+    # 5. SAVE ARCHIVE
     # --------------------------------------------------
 
     print(
-        "\n[5/5] Saving archive..."
+        "\n[5/5] Saving daily archive..."
     )
 
     daily_news = save_daily_news(
-
         processed_articles,
-
-        articles_collected=
-            collected_count,
-
-        duplicates_removed=
-            duplicate_count
+        articles_collected=collected_count,
+        duplicates_removed=duplicate_count
     )
 
     print("\n" + "=" * 60)
-
     print("TODAY'S EDITION")
-
     print("=" * 60)
 
     print(
-        f"Date: "
-        f"{daily_news['date']}"
+        f"Date: {daily_news['date']}"
     )
 
     print(
@@ -137,7 +124,7 @@ def main():
     )
 
     print(
-        f"Published: "
+        f"Total stored: "
         f"{daily_news['statistics']['total_articles']}"
     )
 
@@ -146,7 +133,6 @@ def main():
     for category, count in (
         daily_news["categories"].items()
     ):
-
         print(
             f"  {category}: {count}"
         )

@@ -1,25 +1,17 @@
 import json
 import os
 
-from openai import OpenAI
 from dotenv import load_dotenv
-
+from openai import OpenAI
 
 load_dotenv()
-
 
 API_KEY = os.getenv("OPENAI_API_KEY")
 
 if not API_KEY:
-    raise RuntimeError(
-        "OPENAI_API_KEY is not configured."
-    )
+    raise RuntimeError("OPENAI_API_KEY is not configured.")
 
-
-client = OpenAI(
-    api_key=API_KEY
-)
-
+client = OpenAI(api_key=API_KEY)
 
 MODEL = "gpt-5.6-luna"
 
@@ -40,30 +32,16 @@ IMPORTANT RULES:
 6. Do not copy the article verbatim.
 7. Keep summaries concise.
 8. Preserve important names, dates, numbers and locations.
-9. The original source URL must never be modified.
+9. Never modify the original source URL.
 10. Return ONLY valid JSON.
 """
 
 
 def summarize_article(article):
 
-    title = article.get(
-        "title",
-        ""
-    )
-
-    description = article.get(
-        "description",
-        ""
-    )
-
-    source = article.get(
-        "source",
-        {}
-    ).get(
-        "name",
-        "Unknown"
-    )
+    title = article.get("title", "")
+    description = article.get("description", "")
+    source = article.get("source", {}).get("name", "Unknown")
 
     prompt = f"""
 Analyze this news article.
@@ -111,27 +89,19 @@ IMPORTANCE must be an integer from 1 to 10.
 """
 
     response = client.responses.create(
-
         model=MODEL,
-
         instructions=SYSTEM_PROMPT,
-
         input=prompt
     )
 
     raw_output = response.output_text.strip()
 
     try:
-
-        result = json.loads(
-            raw_output
-        )
+        result = json.loads(raw_output)
 
     except json.JSONDecodeError:
-
         raise ValueError(
-            "OpenAI returned invalid JSON:\n"
-            + raw_output
+            "OpenAI returned invalid JSON:\n" + raw_output
         )
 
     return result

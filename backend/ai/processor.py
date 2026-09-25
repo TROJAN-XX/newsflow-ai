@@ -8,13 +8,13 @@ def process_articles(articles):
 
     processed = []
 
-    selected_articles = articles[
-        :MAX_ARTICLES_PER_RUN
-    ]
+    # For now, take the first 15.
+    # We will replace this with intelligent article selection
+    # in Phase 4.
+    selected_articles = articles[:MAX_ARTICLES_PER_RUN]
 
     print(
-        f"Sending {len(selected_articles)} "
-        f"articles to OpenAI..."
+        f"Sending {len(selected_articles)} articles to OpenAI..."
     )
 
     for index, article in enumerate(
@@ -29,15 +29,11 @@ def process_articles(articles):
 
         try:
 
-            ai_result = summarize_article(
-                article
-            )
+            ai_result = summarize_article(article)
 
             article["ai"] = ai_result
 
-            processed.append(
-                article
-            )
+            processed.append(article)
 
         except Exception as error:
 
@@ -57,8 +53,6 @@ def process_articles(articles):
                 "error": str(error)
             }
 
-            processed.append(
-                article
-            )
+            processed.append(article)
 
     return processed
