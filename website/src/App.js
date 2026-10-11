@@ -17,7 +17,7 @@ function App() {
   const [currentView, setCurrentView] = useState("today");
 
   useEffect(() => {
-    fetch("/data/news_archive.json")
+    fetch(`${import.meta.env.BASE_URL}data/news_archive.json`)
       .then((response) => {
         if (!response.ok) {
           throw new Error("Failed to load news archive.");

@@ -12,7 +12,7 @@ Orchestrates the full news processing pipeline:
 
 import sys
 import time
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 
 from backend.collector.rss import collect_news
 
@@ -27,13 +27,15 @@ from backend.ai.processor import process_articles
 
 from backend.ai.digest import generate_daily_digest
 
+IST = timezone(timedelta(hours=5, minutes=30), name="IST")
+
 
 def main():
 
     start_time = time.time()
 
     today = datetime.now(
-        timezone.utc
+        IST
     ).strftime("%A, %B %d, %Y")
 
     print()

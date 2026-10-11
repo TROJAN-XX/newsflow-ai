@@ -7,7 +7,7 @@ Uses atomic writes to prevent corruption.
 
 import json
 import os
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 
 from backend.utils.config import (
     ARCHIVE_DIR,
@@ -19,6 +19,7 @@ ARCHIVE_FILE = os.path.join(
     ARCHIVE_DIR,
     ARCHIVE_FILENAME
 )
+IST = timezone(timedelta(hours=5, minutes=30), name="IST")
 
 
 def load_archive():
@@ -90,7 +91,7 @@ def save_daily_news(
     archive = load_archive()
 
     today = datetime.now(
-        timezone.utc
+        IST
     ).date().isoformat()
 
     existing_edition = archive.get(

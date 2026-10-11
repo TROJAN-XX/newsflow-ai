@@ -1,7 +1,7 @@
 # ─────────────────────────────────────────────────────────
 # NewsFlow AI — Daily Pipeline
 #
-# Runs the AI news pipeline on a schedule (twice daily)
+# Runs the AI news pipeline daily at 5:00 AM IST
 # and syncs the archive to the website's public data.
 # ─────────────────────────────────────────────────────────
 
@@ -9,9 +9,8 @@ name: NewsFlow AI Pipeline
 
 on:
   schedule:
-    # Run at 06:00 UTC and 18:00 UTC daily
-    - cron: "0 6 * * *"
-    - cron: "0 18 * * *"
+    # GitHub Actions uses UTC: 23:30 UTC is 05:00 IST the next day.
+    - cron: "30 23 * * *"
 
   workflow_dispatch:
     # Allow manual triggering from the Actions tab
