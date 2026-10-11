@@ -33,5 +33,3 @@ pnpm-debug.log*
 Thumbs.db
 
 # Generated data
-data/news_archive.json
-website/public/data/news_archive.json
