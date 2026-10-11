@@ -1,0 +1,78 @@
+# ─────────────────────────────────────────────────────────
+# NewsFlow AI — Deploy Website to GitHub Pages
+#
+# Builds the React website and deploys it to GitHub Pages
+# whenever the main branch is updated.
+# ─────────────────────────────────────────────────────────
+
+name: Deploy Website
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "website/**"
+      - "data/news_archive.json"
+
+  workflow_run:
+    workflows: ["NewsFlow AI Pipeline"]
+    types: [completed]
+
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  build:
+    name: Build Website
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        working-directory: ./website
+        run: npm ci
+
+      - name: Sync archive data
+        run: |
+          mkdir -p website/public/data
+          cp data/news_archive.json website/public/data/news_archive.json 2>/dev/null || echo "No archive yet"
+
+      - name: Build production bundle
+        working-directory: ./website
+        env:
+          CI: false
+        run: npm run build
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./website/build
+
+  deploy:
+    name: Deploy to GitHub Pages
+    needs: build
+    runs-on: ubuntu-latest
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

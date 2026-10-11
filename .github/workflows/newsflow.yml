@@ -1,0 +1,52 @@
+# ─────────────────────────────────────────────────────────
+# NewsFlow AI — Daily Pipeline
+#
+# Runs the AI news pipeline on a schedule (twice daily)
+# and syncs the archive to the website's public data.
+# ─────────────────────────────────────────────────────────
+
+name: NewsFlow AI Pipeline
+
+on:
+  schedule:
+    # Run at 06:00 UTC and 18:00 UTC daily
+    - cron: "0 6 * * *"
+    - cron: "0 18 * * *"
+
+  workflow_dispatch:
+    # Allow manual triggering from the Actions tab
+
+jobs:
+  run-pipeline:
+    name: Collect & Process News
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run NewsFlow AI pipeline
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-5.6-luna' }}
+          MAX_ARTICLES_PER_RUN: ${{ vars.MAX_ARTICLES_PER_RUN || '20' }}
+        run: python -m backend.main
+
+      - name: Sync archive to website
+        run: python sync_archive.py
+
+      - name: Commit updated archive
+        run: |
+          git config user.name "NewsFlow AI Bot"
+          git config user.email "bot@newsflow-ai.dev"
+          git add data/news_archive.json website/public/data/news_archive.json
+          git diff --cached --quiet || git commit -m "📰 Daily news update — $(date -u +%Y-%m-%d)"
+          git push

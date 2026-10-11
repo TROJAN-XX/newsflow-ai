@@ -1,0 +1,1 @@
+# NewsFlow AI — Collector Module
