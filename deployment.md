@@ -51,18 +51,15 @@ The Vite build produces static assets in `website/dist/`.
 ```bash
 # From repository root
 cd website
-npm run build           # Creates website/dist/
+npm install          # Install deps
+npm run build         # Creates website/dist/
 ```
 
 **Deploy `website/dist/`** to any static host (Netlify, Vercel, Cloudflare Pages, GitHub Pages, etc.).
 
-**Build environment variables**: No special env vars are required for the static build. The React app only renders UI; it does not call OpenAI directly.
+**Build environment variables**: No special env vars are required for the static build. The React app only renders UI; it does not call OpenAI directly. If your host requires a `_redirects` file for SPA routing, add `public/_redirects` with content `/   /   200`.
 
-### SPA Routing Consideration
-
-If you deploy to a host that serves a single `index.html` for all routes (e.g., Netlify redirect rules), you may need a basic `404.html` fallback or a rewrite rule that points to `index.html`. The current React app uses client‑side routing (HashRouter or BrowserRouter), so ensure your host supports SPA conventions.
-
-### Alternative: Serve from Same Python Process
+**Alternative: Serve from Same Python Process**
 
 You can also serve the built website from the same host as the Python pipeline, e.g.:
 
@@ -73,6 +70,23 @@ python backend/main.py
 # In another terminal, from website/
 npx serve -s dist        # or use any static file server
 ```
+
+### SPA Routing Consideration
+
+If you deploy to a host that serves a single `index.html` for all routes (e.g., Netlify redirect rules), you may need a basic `404.html` fallback or a rewrite rule that points to `index.html`. The current React app uses client‑side routing (HashRouter or BrowserRouter), so ensure your host supports SPA conventions.
+
+### Alternative: Sync Archive for Static Deployment
+
+After building the website, copy the latest archive so the frontend can display it:
+
+```bash
+# From repository root
+python backend/sync_archive.py
+```
+
+This copies `data/news_archive.json` into `website/public/data/news_archive.json`, which the React app reads from `/data/news_archive.json` at runtime.
+
+Then deploy `website/dist/` (the Vite build output) to your chosen static host.
 
 ---
 

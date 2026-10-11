@@ -8,7 +8,7 @@
 4. **OpenAI summarization** (`backend/ai/processor.py`) — sends up to 15 articles per run to `gpt-5.6-luna` via OpenAI Responses API; each article gets summary, key_points, keywords, category, importance.
 5. **Save archive** (`backend/storage/archive.py`) — persists daily edition to `data/news_archive.json`, merging with existing entries and avoiding duplicate article IDs.
 
-**Command:** `python backend/main.py`
+**Command:** `python -m backend.main`
 
 ## Environment
 

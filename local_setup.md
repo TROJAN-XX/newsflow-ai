@@ -36,7 +36,22 @@ cp .env.example .env            # Create .env from the example
 ## 5. Run the Pipeline
 
 ```bash
-python backend/main.py
+# From repository root (using the project .venv)
+.\.venv\Scripts\python -m backend.main
+```
+
+**OR** using the system Python (if deps are installed):
+
+```bash
+python -m backend.main
+```
+
+**Why**: The `backend/` directory is a Python package (has `__init__.py`). Imports use `from backend.utils.config import ...` which requires the package on `sys.path`. Using `python -m backend.main` from the repo root ensures the imports resolve correctly.
+
+**Note**: On Windows, if the console prints a `charmap` encode error about Unicode characters (▸), this is just a code page issue with the print formatting — the pipeline logic runs fine. You can redirect output to avoid the encoding issue:
+
+```bash
+python -m backend.main > output.txt 2>&1
 ```
 
 **What happens** (5 steps, as documented in `AGENTS.md`):
@@ -52,11 +67,19 @@ python backend/main.py
 
 ```bash
 cd website
-npm install          # Install React deps
-npm run dev          # Start Vite dev server at http://localhost:3000
+npm install          # Install React + Vite deps
+npm run dev          # Start Vite dev server at http://localhost:1234
 ```
 
-**Note**: The website currently has empty UI components (`App.js`, `index.js`, etc.). Running `npm run dev` will start a dev server but won't render meaningful content until pages/components are implemented.
+The website uses Vite + React. All UI components (`App.js`, `NewsCard.js`, `CategoryBar.js`, `DateSelector.js`, etc.) are already implemented in `website/src/`. Running `npm run dev` will start the development server at `http://localhost:1234` and the homepage will render today's news edition fetched from the backend archive.
+
+**Syncing the archive** — After running the Python pipeline, copy the generated archive to the website's public directory so the UI can display it:
+
+```bash
+python backend/sync_archive.py
+```
+
+If you get a port conflict, you can customize the port via `vite.config.js` or the `VITE_PORT` environment variable.
 
 ## 7. Common Local Issues
 
